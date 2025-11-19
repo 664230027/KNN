@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header("Fluke")
+st.header(" BY Yossakorn ")
 st.image("./img/fluke.jpg")
 
 col1, col2, col3 = st.columns(3)
